@@ -1,1 +1,1 @@
-Hola bienvenidos a GitHub, actualmente el mismo esta en construccion mmuchas gracias por su atencion. 
+Hola bienvenidos a GitHub, actualmente el mismo esta en construccion muchas gracias por su atencion. 
